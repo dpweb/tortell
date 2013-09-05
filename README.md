@@ -1,7 +1,12 @@
 tortell
 =======
 
-Determine if your users are coming from Tor endpoints.  For Node.JS based web servers.
+Determine if your users are coming from Tor endpoints.  For NodeJS based web servers.
+
+Please note, this app uses publicly available lists, which this app downloads periodically.    
+Measures are taken so that the app doesn't hammer their servers. If you modify or change settings, please use this module responsibly.    
+
+Bug reports and pull requests are more than welcome.    
 
 http
 ````
